@@ -12,3 +12,4 @@ Repository = "https://github.com/joshua1688/ComfyUI-StoryboardEditor"
 [tool.comfy]
 PublisherId = "joshua1688"
 DisplayName = "Joshua Storyboard Editor"
+Icon = "https://avatars.githubusercontent.com/u/32565151?s=400"
