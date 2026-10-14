@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-storyboard-editor"
+description = "ComfyUI Storyboard Editor: grid preview, add/delete/edit, insert/replace, auto-expand panels. ComfyUI 分镜编辑器：宫格预览、增删改、插入替换、自动扩充宫格。"
+version = "1.0.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = ["pillow>=10.3.0", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/Joshua1688/ComfyUI-StoryboardEditor"
+
+[tool.comfy]
+PublisherId = "joshua1688"           # 如果 Registry 还没注册，用这个
+DisplayName = "Joshua Storyboard Editor"  # 或保留 ComfyUI-StoryboardEditor
+Icon = "https://avatars.githubusercontent.com/u/40791699"
