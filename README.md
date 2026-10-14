@@ -40,7 +40,7 @@ Search for `Storyboard Editor` or `Joshua Storyboard Editor` in ComfyUI Manager,
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/Joshua1688/ComfyUI-StoryboardEditor.git
+git clone https://github.com/joshua1688/ComfyUI-StoryboardEditor.git
 cd ComfyUI-StoryboardEditor
 pip install -r requirements.txt
 ```
@@ -234,8 +234,8 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 
 **joshua1688**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joshua1688-181717.svg?logo=github)](https://github.com/Joshua1688)
-[![Repository](https://img.shields.io/badge/Repo-ComfyUI--StoryboardEditor-blue.svg)](https://github.com/Joshua1688/ComfyUI-StoryboardEditor)
+[![GitHub](https://img.shields.io/badge/GitHub-joshua1688-181717.svg?logo=github)](https://github.com/joshua1688)
+[![Repository](https://img.shields.io/badge/Repo-ComfyUI--StoryboardEditor-blue.svg)](https://github.com/joshua1688/ComfyUI-StoryboardEditor)
 
 If this project helps you, please consider giving it a ⭐ Star.
 
