@@ -7,9 +7,8 @@ requires-python = ">=3.10"
 dependencies = ["pillow>=10.3.0", "numpy"]
 
 [project.urls]
-Repository = "https://github.com/Joshua1688/ComfyUI-StoryboardEditor"
+Repository = "https://github.com/joshua1688/ComfyUI-StoryboardEditor"
 
 [tool.comfy]
-PublisherId = "joshua1688"           # 如果 Registry 还没注册，用这个
-DisplayName = "Joshua Storyboard Editor"  # 或保留 ComfyUI-StoryboardEditor
-Icon = "https://avatars.githubusercontent.com/u/40791699"
+PublisherId = "joshua1688"
+DisplayName = "Joshua Storyboard Editor"
